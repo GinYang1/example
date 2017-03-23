@@ -1,0 +1,83 @@
+.logo{
+    width: 380px;
+    height: 140px;
+    float: left;
+    background-image: url("../img/logo.jpg");
+    background-repeat: no-repeat;
+
+}
+.layout_header_r{
+    float: left ;
+    width: 615px;
+    height: 103px;
+    position: relative;
+    padding-top: 62px;
+
+}
+.layout_header_r_t{
+    position: absolute;
+    top: 26px;
+    left: 290px;
+}
+.layout_header_r_t a{
+    margin: 0 5px;
+    color: #000000;
+}
+.layout_header_r_t a:hover{
+    color: #CC0000;
+}
+
+.layout_header_r_f{
+    position: absolute;
+    display: block;
+    width: 615px;
+    height: 41px;
+    padding: 13px 0 0 12px;
+    background-image: url("../img/nav_bg.jpg");
+    background-repeat: no-repeat;
+}
+.layout_header_r_f li{
+    float: left;
+    width: 75px;
+    height: 20px;
+    margin-right: 9px;
+    cursor:pointer;
+}
+.layout_header_r_f li span{
+    display: block;
+    position: relative;
+    width: 75px;
+    height: 14px;
+    overflow: hidden;
+}
+.hd-nav-a{
+    display: block;
+    position: absolute;
+    top: 0px;;
+    left: 0px;
+    width: 75px;
+    height: 28px;
+    background-image: url("../img/nav_name.png");
+    background-repeat: no-repeat;
+}
+.hd-nav-1{
+    background-position: -4px;
+}
+.hd-nav-2{
+    background-position: -87px;
+}
+.hd-nav-3{
+    background-position: -170px;
+}
+.hd-nav-4{
+    background-position: -253px;
+}
+.hd-nav-5{
+    background-position: -336px;
+}
+.hd-nav-6{
+    background-position: -419px;
+}
+.hd-nav-7{
+    background-position: -502px;
+}

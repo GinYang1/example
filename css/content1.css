@@ -1,0 +1,82 @@
+.content1_l{
+    float: left;
+    width: 240px;
+    height: 208px;
+
+}
+.content1_l .content1_l_f{
+    margin-left: 20px;
+}
+.content1_l .content1_l_f li{
+    padding-left: 15px;
+    line-height: 25px;
+    background-image: url("../img/new_icon.gif");
+    background-repeat: no-repeat;
+    background-position: 5px;
+}
+.content1_l .content1_l_f li a{
+    font-size: 14px;
+    color: #000000;
+}
+
+.content1_r{
+    float: left;
+    width: 751px;
+    height: 214px;
+
+}
+.content1_r .content1_r_f{
+    margin-top: 10px;
+}
+.content1_r_f .content_aboutUs{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 521px;
+    height: 178px;
+    float: left;
+}
+.content1_r_f p{
+    font-size: 14px;
+    line-height: 25px;
+}
+.content1_r_f  .aboutUs_img{
+    width: 210px;
+    height: 150px;
+    background-image: url("../img/3.jpg");
+}
+.item-t{
+    height: 35px;
+    padding-top: 1px;
+    background: url("../img/show_tl_bg.gif") repeat-x 0 -36px;
+}
+.item-t-edge-l, .item-t-edge-r{
+    width: 8px;
+    height: 36px;
+    margin-top: -1px;
+    background-image: url("../img/show_tl_bg.gif");
+    background-repeat: no-repeat;
+}
+.item-t-edge-r{
+    background-position: -1px 0;
+}
+.item-name{
+    display: inline-block;
+    height: 33px;
+    background-image: url("../img/item_tl.png");
+}
+.item-name-aboutUs{
+    width: 216px;
+    background-position: 0 0;
+}
+.item-name-product{
+    width: 151px;
+    background-position: 0 -33px;
+}
+.item-name-contactUs{
+    width: 151px;
+    background-position: 0 -99px;
+}
+.item-name-projects{
+    width: 216px;
+    background-position: 0 -66px;
+}

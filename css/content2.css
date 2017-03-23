@@ -1,0 +1,30 @@
+.content2_l{
+    width: 240px;
+    height: 221px;
+    float: left;
+}
+.content2_l .content2_l_f{
+    padding-left: 10px;
+}
+.content2_l_f li{
+    font-size: 14px;
+    line-height: 25px;
+    color: #000000;
+}
+.content2_r{
+    width: 751px;
+    height: 232px;
+    float: left;
+}
+.content2_r_f li{
+    float: left;
+    width: 231px;
+    height: 171px;
+    margin-left: 15px;
+    padding-top: 20px;
+    text-align: center;
+}
+.content2_r_f li .show-txt{
+    text-align: center;
+    color: #000000;
+}

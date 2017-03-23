@@ -1,0 +1,69 @@
+.layout_banner_l{
+    float: left;
+    width: 632px;
+    height: 234px;
+    position: relative;
+    margin-left: 90px;
+    display: inline;
+    border: 1px solid red;
+}
+.banner_img{
+    position: absolute;
+    width: 632px;
+    height: 234px;
+    float: left;
+    border: 1px solid green;
+}
+.banner_img li{
+    position: absolute;
+}
+.banner_img_num {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    z-index: 1;             /*设置堆叠顺序*/
+}
+.banner_img_num li{
+    float:left;
+    width:18px;
+    height:18px;
+    background:#fff;
+    border:1px solid #000;
+    margin-left:6px;
+    text-align:center;
+    line-height:18px;
+    cursor:pointer;
+}
+.banner_img_num .cur{
+    background:#d2ad2c;
+    color:#fff;
+}
+
+.banner_r{
+    float: left;
+    width: 230px;
+    height: 220px;
+    margin-left: 10px;
+}
+.banner_r_t{
+    color: #F2F2F2;
+    font-size: 16px;
+    line-height: 20px;
+}
+.banner_r_f{
+    font-size: 12px;
+    line-height: 24px;
+}
+.banner_r_f li{
+    background-image: url("../img/new_icon.gif");
+    background-repeat: no-repeat;
+    background-position: 5px;
+}
+.banner_r_f a{
+    margin-left: 15px;
+    color: #F2F2F2;
+    text-decoration: none;
+}
+.banner_r_f a:hover{
+    color: #CC0000;
+}

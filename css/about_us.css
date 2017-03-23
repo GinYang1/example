@@ -1,0 +1,68 @@
+.layout_about_us{
+    height: 480px;
+
+}
+.about_us_l{
+    height: 339px;
+    width: 240px;
+    float: left;
+
+}
+.about_us_l p{
+    background-image: url(../img/contentMenu_list_icon.jpg);
+    background-repeat: no-repeat;
+    background-position: 30px 17px;
+}
+.about_us_l p a{
+    margin-top: 10px;
+    font-size: 12px;
+    line-height: 35px;
+    margin-left: 60px;
+    color: #000000;
+}
+.about_us_l dl{
+    margin-top: 17px;
+    margin-left: 30px;
+}
+.about_us_l dl dt{
+    font-size: 12px;
+    line-height: 17px;
+}
+.about_us_l dl dd{
+    font-size: 12px;
+    line-height: 25px;
+}
+.about_us_l_f{
+    width: 240px;
+    height: 303px;
+}
+
+.about_us_r{
+    width: 751px;
+    height: 478px;
+    float: left;
+    margin-left: 5px;
+}
+.about_us_r_t{
+    margin-top: 10px;
+}
+.about_us_r_t a{
+    color: #000000;
+}
+.about_us_r_f{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+}
+.about_us_r_f p{
+    line-height: 25px;
+    text-indent: 2em;
+}
+.about_us_r_f a{
+    color: #000000;
+}
+.about_us_r_f img{
+    display: block;
+    margin: 0 auto;
+}
